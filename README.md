@@ -10,7 +10,7 @@ A Chrome extension that allows redirecting URLs according to configured rules.
 - Support for labels for easier organization of rules
 - Support for wildcard characters (* and ?) in source URLs
 
-## How to Use
+## How it works
 
 1. Install the extension in Chrome
 2. Click on the extension icon in the browser toolbar
